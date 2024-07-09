@@ -27,7 +27,6 @@ Repositório das atividades realizadas na aula de LP2 no segundo semestre da Fat
  
 - **Atividade 9: Trabalhando com matrizes**
      <br><a  href="https://github.com/BeatrizARibeiro/LP2/tree/main/Atividade9"><img src="https://github.com/BeatrizARibeiro/LP2/blob/main/Atividade9/atividade9.gif" width="620"/></a>
-    
 - **Projeto final**
      <br><a  href="https://github.com/BeatrizARibeiro/LP2/tree/main/ProjetoFinal"><img src="https://github.com/BeatrizARibeiro/LP2/blob/main/ProjetoFinal/projeto.gif" width="620"/></a>
  
