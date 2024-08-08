@@ -1,6 +1,9 @@
 <h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=e269c7&size=30&center=true&vCenter=true&font=Paytone+One&duration=1&repeat=false&random=false&width=1000&lines=Lógica+de+Programação+2" alt="Typing SVG" /></a></h2>
 
-Repositório das atividades realizadas na aula de LP2 no segundo semestre da Fatec Sorocaba.
+Repositório das atividades realizadas na disciplina de LP2 (Lógica de Programação 2).<br>
+**Instituição:** Fatec Sorocaba. <br>
+**Curso:** Análise e Desenvolvimento de Sistemas. <br>
+
 - **Atividade 1: Calculadora de volume de cilindro**
      <br><a  href="https://github.com/BeatrizARibeiro/LP2/tree/main/Atividade1"><img src="https://github.com/BeatrizARibeiro/LP2/blob/main/Atividade1/atividade1.gif" width="620"/></a>
 
